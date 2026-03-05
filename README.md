@@ -29,8 +29,8 @@ Miniconda or Anaconda
 
 Bash
 
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/oguzhan45/Mini-Bioinformatics-Pipeline.git](https://github.com/oguzhan45/Mini-Bioinformatics-Pipeline.git)
+cd Mini-Bioinformatics-Pipeline
 2.Run the automated pipeline:
 The pipeline is pre-configured to process the dummy data provided in the data/ directory. Conda will automatically build the required environment upon the first run.
 
@@ -67,5 +67,5 @@ The detailed CSV statistics, distribution graphs, and the complete NanoPlot repo
 
 Best regards,
 
-[Adınız Soyadınız]
-Bioinformatics Engineer / Software Developer
+Oğuzhan Püsküllü
+
