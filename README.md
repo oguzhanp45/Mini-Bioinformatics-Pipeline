@@ -29,7 +29,7 @@ Miniconda or Anaconda
 
 Bash
 
-git clone [https://github.com/oguzhan45/Mini-Bioinformatics-Pipeline.git](https://github.com/oguzhan45/Mini-Bioinformatics-Pipeline.git)
+git clone [https://github.com/oguzhanp45/Mini-Bioinformatics-Pipeline.git](https://github.com/oguzhanp45/Mini-Bioinformatics-Pipeline.git)
 cd Mini-Bioinformatics-Pipeline
 2.Run the automated pipeline:
 The pipeline is pre-configured to process the dummy data provided in the data/ directory. Conda will automatically build the required environment upon the first run.
